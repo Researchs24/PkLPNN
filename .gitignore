@@ -2,3 +2,7 @@
 *zzz*
 # Matlab files
 *.mat
+# Profiling
+*profile*
+# log files
+*log*
