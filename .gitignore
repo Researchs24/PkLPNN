@@ -1,7 +1,7 @@
 # Custom files
 *zzz*
 # Matlab files
-.mat
+# *.mat
 # Profiling
 *profile*
 # log files
